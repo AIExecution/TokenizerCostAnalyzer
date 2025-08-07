@@ -34,7 +34,7 @@ Welcome to **Tokenizer Cost Analyzer** — a sleek Streamlit app that breaks dow
 | ----- | ------------------- | ---------------- | ----------- | --------- |
 | GPT-4 | `['I', ' am', ...]` | `[40, 539, ...]` | `9`         | `₹0.0054` |
 
-![Sample UI](https://your-screenshot-url.com/sample.png) <!-- Replace with actual screenshot URL if available -->
+![Sample UI](https://github.com/AIExecution/TokenizerCostAnalyzer/blob/CompareLLMTokenizationCost/Image1.png)) <!-- Replace with actual screenshot URL if available -->
 
 ---
 
@@ -66,6 +66,8 @@ streamlit run app.py
 # If you want to check Tokeniser for specific model and get their computation details run
 
 streamlit run tokenizer_decoder_app.py
+![Sample UI](https://github.com/AIExecution/TokenizerCostAnalyzer/blob/CompareLLMTokenizationCost/Image2.png)) <!-- Replace with actual screenshot URL if available -->
+
 
 ## 🌐 Run It on Hugging Face Spaces (No Setup Needed)
 
