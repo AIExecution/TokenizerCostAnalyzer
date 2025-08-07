@@ -40,7 +40,7 @@ Welcome to **Tokenizer Cost Analyzer** — a sleek Streamlit app that breaks dow
 
 ## 🚀 Run It Locally
 
-```bash
+
 # Clone the repo
 git clone https://github.com/your-username/tokenizer-cost-analyzer.git](https://github.com/AIExecution/TokenizerCostAnalyzer.git
 cd tokenizer-cost-analyzer
@@ -80,4 +80,4 @@ Built with ❤️ by **Ashwin Shah** — feel free to fork, remix, or contribute
 ## 📜 License
 
 **MIT License** — free to use and adapt!
-```
+
