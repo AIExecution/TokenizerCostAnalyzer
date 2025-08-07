@@ -1,0 +1,10 @@
+matplotlib
+plotly
+torch
+torchvision
+torchaudio
+streamlit
+transformers
+tiktoken
+sentencepiece
+dotenv
