@@ -42,7 +42,7 @@ Welcome to **Tokenizer Cost Analyzer** — a sleek Streamlit app that breaks dow
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/tokenizer-cost-analyzer.git
+git clone https://github.com/your-username/tokenizer-cost-analyzer.git](https://github.com/AIExecution/TokenizerCostAnalyzer.git
 cd tokenizer-cost-analyzer
 
 # Install dependencies
