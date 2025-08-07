@@ -51,7 +51,8 @@ pip install -r requirements.txt
 # Run the app
 streamlit run app.py
 
-#If you want to check Tokeniser for specific model and get their computation details run
+
+# If you want to check Tokeniser for specific model and get their computation details run
 streamlit run tokenizer_decoder_app.py
 
 
