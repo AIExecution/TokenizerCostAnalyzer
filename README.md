@@ -40,21 +40,32 @@ Welcome to **Tokenizer Cost Analyzer** — a sleek Streamlit app that breaks dow
 
 ## 🚀 Run It Locally
 
-
 # Clone the repo
+
 git clone https://github.com/your-username/tokenizer-cost-analyzer.git](https://github.com/AIExecution/TokenizerCostAnalyzer.git
 cd tokenizer-cost-analyzer
 
 # Install dependencies
+
 pip install -r requirements.txt
 
+# Add Hufgging Face token value
+
+Make sure you agree to terms and conditions for below models in hugging face otherwise the token might not be useful.
+https://huggingface.co/meta-llama/Llama-2-7b-chat-hf
+https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1
+
+Replace hf_your_actual_token_here with your actual token in .env file.
+
+HF_TOKEN=hf_your_actual_token_here
+
 # Run the app
+
 streamlit run app.py
 
-
 # If you want to check Tokeniser for specific model and get their computation details run
-streamlit run tokenizer_decoder_app.py
 
+streamlit run tokenizer_decoder_app.py
 
 ## 🌐 Run It on Hugging Face Spaces (No Setup Needed)
 
@@ -81,4 +92,3 @@ Built with ❤️ by **Ashwin Shah** — feel free to fork, remix, or contribute
 ## 📜 License
 
 **MIT License** — free to use and adapt!
-
